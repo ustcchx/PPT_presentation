@@ -184,11 +184,11 @@
         <mxCell id="VpYt9LzkhfkG9tVjbVdd-110" value="&lt;font style=&quot;font-size: 8px;&quot;&gt;&amp;nbsp;Retaining&amp;nbsp;&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 8px;&quot;&gt;Multiple Models&lt;/font&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="236.5" y="690" width="137" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="VpYt9LzkhfkG9tVjbVdd-112" value="&lt;div&gt;&lt;font style=&quot;font-size: 8px;&quot;&gt;Data requirement&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 8px;&quot;&gt;Gradient-based training&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 8px;&quot;&gt;Single model&lt;/font&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="VpYt9LzkhfkG9tVjbVdd-112" value="&lt;div&gt;&lt;font style=&quot;font-size: 8px;&quot;&gt;Data Requirement&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 8px;&quot;&gt;Gradient-Based Training&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 8px;&quot;&gt;Single Model&lt;/font&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="416.5" y="690" width="137" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="VpYt9LzkhfkG9tVjbVdd-114" value="&lt;div&gt;&lt;font style=&quot;font-size: 8px;&quot;&gt;Data Free&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 8px;&quot;&gt;&amp;nbsp;Training Free&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 8px;&quot;&gt;&amp;nbsp;Single model&lt;/font&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="595.5" y="690" width="137" height="30" as="geometry" />
+        <mxCell id="VpYt9LzkhfkG9tVjbVdd-114" value="&lt;div&gt;&lt;font style=&quot;font-size: 8px;&quot;&gt;Data Free&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 8px;&quot;&gt;&amp;nbsp;Training Free&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 8px;&quot;&gt;&amp;nbsp;Single Model&lt;/font&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="601.5" y="690" width="137" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
